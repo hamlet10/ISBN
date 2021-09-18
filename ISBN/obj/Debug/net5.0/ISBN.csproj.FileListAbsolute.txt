@@ -1,0 +1,12 @@
+D:\Kata\ISBN\ISBN\bin\Debug\net5.0\ISBN.deps.json
+D:\Kata\ISBN\ISBN\bin\Debug\net5.0\ISBN.dll
+D:\Kata\ISBN\ISBN\bin\Debug\net5.0\ref\ISBN.dll
+D:\Kata\ISBN\ISBN\bin\Debug\net5.0\ISBN.pdb
+D:\Kata\ISBN\ISBN\obj\Debug\net5.0\ISBN.csproj.AssemblyReference.cache
+D:\Kata\ISBN\ISBN\obj\Debug\net5.0\ISBN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kata\ISBN\ISBN\obj\Debug\net5.0\ISBN.AssemblyInfoInputs.cache
+D:\Kata\ISBN\ISBN\obj\Debug\net5.0\ISBN.AssemblyInfo.cs
+D:\Kata\ISBN\ISBN\obj\Debug\net5.0\ISBN.csproj.CoreCompileInputs.cache
+D:\Kata\ISBN\ISBN\obj\Debug\net5.0\ISBN.dll
+D:\Kata\ISBN\ISBN\obj\Debug\net5.0\ref\ISBN.dll
+D:\Kata\ISBN\ISBN\obj\Debug\net5.0\ISBN.pdb
